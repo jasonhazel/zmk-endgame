@@ -1,3 +1,4 @@
+name: endgame
 build:
   settings:
     board_root: .
